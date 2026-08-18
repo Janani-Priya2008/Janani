@@ -1,4 +1,0 @@
-db.url=jdbc:h2:tcp://localhost:9092/./data/inishamart
-db.user=sa
-db.password=
-db.driver=org.h2.Driver
